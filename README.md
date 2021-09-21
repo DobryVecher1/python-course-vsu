@@ -11,6 +11,8 @@
 - [scikit-learn](https://scikit-learn.org/stable/)
 ## Видео
 - [Python для работы с данными](https://youtube.com/playlist?list=PLBRXq5LaddfxQFjzuq5QC05q1ZheGMQo1) 
+- [Python Full Course (eng)](https://www.youtube.com/watch?v=XKHEtdqhLK8)
+- [Прикладной Python (лекции)](https://www.youtube.com/playlist?list=PLrCZzMib1e9qM62lMXC90SiFy7-1-kAPJ)
 
 ## Полезные ресурсы
 - [Программирование и научные вычисления на языке Python](https://ru.wikiversity.org/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BD%D0%B0_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5_Python)
