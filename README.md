@@ -19,3 +19,4 @@
 - [Шпаргалка по NumPy](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
 - Курсы по машинному обучению. [Раз](https://github.com/esokolov/ml-course-hse) и [два](https://github.com/girafe-ai/ml-mipt)
 - [Kaggle](https://www.kaggle.com/)
+- [Краткое руководство по Markdown](https://paulradzkov.com/2014/markdown_cheatsheet/)
