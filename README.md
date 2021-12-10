@@ -20,3 +20,5 @@
 - Курсы по машинному обучению. [Раз](https://github.com/esokolov/ml-course-hse) и [два](https://github.com/girafe-ai/ml-mipt)
 - [Kaggle](https://www.kaggle.com/)
 - [Краткое руководство по Markdown](https://paulradzkov.com/2014/markdown_cheatsheet/)
+- Открытый курс машинного обучения от сообщества OpenDataScience ([Russian](https://habr.com/ru/company/ods/blog/322626/), [English](https://mlcourse.ai/))
+- Образовательные платформы: [Coursera](https://www.coursera.org/), [edX](https://www.edx.org/), [NPTEL](https://nptel.ac.in/), [Stepik](https://stepik.org/catalog) и другие.
